@@ -1,11 +1,12 @@
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 # UnityLearn
  A Collection of Unity Learn Projects
 
+Projects I decided to do from Unity Learn, I could spend my time doing something better but it I thought maybe I'd learn something. It's also better for me than just playing games.
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
