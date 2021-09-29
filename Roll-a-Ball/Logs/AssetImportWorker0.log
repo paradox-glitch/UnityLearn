@@ -114,3 +114,107 @@ System memory in use after: 117.6 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3156.
 Total: 2.031200 ms (FindLiveObjects: 0.323300 ms CreateObjectMapping: 0.119800 ms MarkObjects: 1.533500 ms  DeleteObjects: 0.053800 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 419.022066 seconds.
+  path: Assets/Scripts/Rotator.cs
+  artifactKey: Guid(ab0b3b8d527ad7c42a1dd09cda6fbf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Rotator.cs using Guid(ab0b3b8d527ad7c42a1dd09cda6fbf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51581c2f648378270f7aed02473f5b5c') in 0.019314 seconds
+  Import took 0.025706 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001504 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.5 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3159.
+Total: 2.459500 ms (FindLiveObjects: 0.348200 ms CreateObjectMapping: 0.212600 ms MarkObjects: 1.839200 ms  DeleteObjects: 0.057800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002278 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.5 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3161.
+Total: 2.458500 ms (FindLiveObjects: 0.407200 ms CreateObjectMapping: 0.171500 ms MarkObjects: 1.818100 ms  DeleteObjects: 0.060300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 328.021467 seconds.
+  path: Assets/Scripts/Rotator.cs
+  artifactKey: Guid(ab0b3b8d527ad7c42a1dd09cda6fbf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Rotator.cs using Guid(ab0b3b8d527ad7c42a1dd09cda6fbf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a953674c7c0cda31f585bb275367da76') in 0.005214 seconds
+  Import took 0.011032 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.5 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3163.
+Total: 3.347100 ms (FindLiveObjects: 0.275700 ms CreateObjectMapping: 0.114800 ms MarkObjects: 2.893900 ms  DeleteObjects: 0.061300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.692942 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(fad1704bba57b3c498e4e12aff471c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(fad1704bba57b3c498e4e12aff471c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700ad081efb56b5aca9b7d74e24ed936') in 0.013324 seconds
+  Import took 0.019522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.013059 seconds.
+  path: Assets/Prefabs/PickUp.prefab
+  artifactKey: Guid(451630ef1d5cc504fad369c0d7a64f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PickUp.prefab using Guid(451630ef1d5cc504fad369c0d7a64f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8efac96aa2ec34c78915f6f142873c6') in 0.058990 seconds
+  Import took 0.067345 seconds .
+
